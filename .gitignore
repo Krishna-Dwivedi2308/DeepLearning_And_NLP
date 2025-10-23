@@ -1,0 +1,129 @@
+# ----------------------------
+# Python general
+# ----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# ----------------------------
+# Virtual environments
+# ----------------------------
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ----------------------------
+# Jupyter Notebook checkpoints
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# Logs and local settings
+# ----------------------------
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.tmp
+*.temp
+*.swp
+*.bak
+
+# ----------------------------
+# IDE / Editor specific
+# ----------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ----------------------------
+# OS-specific
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Environment / dependency files
+# ----------------------------
+.env
+.env.*
+*.env
+
+# ----------------------------
+# Jupyter Notebook temporary files
+# ----------------------------
+*.nbconvert.ipynb
+
+# ----------------------------
+# Distribution / Packaging
+# ----------------------------
+build/
+dist/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ----------------------------
+# Unit test / Coverage reports
+# ----------------------------
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# ----------------------------
+# Data / model outputs
+# ----------------------------
+*.h5
+*.hdf5
+*.ckpt
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.csv
+*.tsv
+*.parquet
+*.npy
+*.npz
+*.jsonl
+
+# ----------------------------
+# Temporary notebooks or experiment outputs
+# ----------------------------
+outputs/
+experiments/
+results/
+runs/
+
+# ----------------------------
+# Jupyter metadata
+# ----------------------------
+*.nbconvert/
+jupyter_notebook_config.json
